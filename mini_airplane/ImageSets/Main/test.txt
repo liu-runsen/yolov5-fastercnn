@@ -1,0 +1,11 @@
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000493286.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000497878.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000355370.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000295765.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000146659.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000138755.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000134328.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000275761.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000169936.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000465664.jpg
+/home/lrs/demo/mini_airplane/images/COCO_val2014_000000159983.jpg

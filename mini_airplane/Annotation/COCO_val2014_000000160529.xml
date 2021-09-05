@@ -1,0 +1,26 @@
+<annotation>
+  <folder></folder>
+  <filename>COCO_val2014_000000160529.jpg</filename>
+  <path>./mini_airplane/images/</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>425</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>plane</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>72</ymin>
+      <xmax>502</xmax>
+      <ymax>357</ymax>
+    </bndbox>
+  </object>
+</annotation>
